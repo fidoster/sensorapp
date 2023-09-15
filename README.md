@@ -2,7 +2,7 @@
 
 This GitHub repository contains code and resources for a project developed in Azure Machine Learning Studio aimed at identifying which measurements affect the paper's roughness (Sensor Name: Roughness) and creating a prediction model for roughness. Roughness is a quality measurement made in a laboratory every time a roll of paper is finished. However, the factory would like to know what the value could be based on the sensor data.
 
-![PMSensor Model](https://github.com/fidoster/sensorapp/assets/99990278/d7342fce-e199-4a88-acc4-79ae5f1d01df)
+![PMSensor Model](https://github.com/fidoster/sensorapp/assets/99990278/f9539735-1617-42a5-92d5-60b03f41d9df)
 
 
 ## Repository Structure
